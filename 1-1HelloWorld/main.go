@@ -1,7 +1,7 @@
 package main
 
 import (
-	"MYCODES/hello"
+	"1-1HelloWorld/hello"
 	"fmt"
 )
 
