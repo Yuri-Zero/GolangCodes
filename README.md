@@ -11,3 +11,4 @@
 ## 第二章
 [1.if语句](2-1If/2.1if语句笔记.md)<br>
 [2.switch语句](2-2Switch/2-2Switch笔记.md)
+[3.for循环语句](2-3for/2.3for语句笔记.md)
